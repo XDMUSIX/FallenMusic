@@ -92,6 +92,8 @@ helpmenu = [
     ],
     [
         InlineKeyboardButton(text="sᴜᴅᴏ", callback_data="fallen_cb sudo"),
+        [
+        InlineKeyboardButton(text="Group", callback_data="fallen_cb Group"),
         InlineKeyboardButton(text="ᴏᴡɴᴇʀ", callback_data="fallen_cb owner"),
     ],
     [
